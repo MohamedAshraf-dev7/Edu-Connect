@@ -14,11 +14,17 @@ It provides a seamless and integrated  environment for both educators and studen
 
 ## Software Technologies and Techniques
 Web Development: HTML5, CSS3, JavaScript,React.js, PHP, Laravel
+
 Database Management: MySQL, MongoDB
+
 Mobile App Development: Flutter, Firebase
+
 UX Design: Usability testing and user-centered design principles
+
 Restful APIs: Swagger, Open API
+
 Flutter Development: Building cross-platform  mobile apps
+
 AI Development: Python libraries forpersonalized learning and chatbots
 
 ## Logo Design and Brand  Identity
@@ -26,11 +32,15 @@ AI Development: Python libraries forpersonalized learning and chatbots
 <img width="872" height="717" alt="image" src="https://github.com/user-attachments/assets/e94addc2-8482-4d71-911a-cbbd369434f7" />
 
 ## Application and Website Screenshots
-  ##Website
+
+###Website
+
 <img width="446" height="522" alt="image" src="https://github.com/user-attachments/assets/992e0efd-a9da-4d90-9274-70fb8d70b405" />
 <img width="447" height="522" alt="image" src="https://github.com/user-attachments/assets/cc6e6657-eaba-4cd2-a5c2-ab04f5802f0e" />
 <img width="998" height="522" alt="image" src="https://github.com/user-attachments/assets/67756be2-00fd-4e68-a247-ab1cf3011e60" />
-  ##App
+
+###App
+
 <img width="371" height="606" alt="image" src="https://github.com/user-attachments/assets/e19d938d-2cfb-49f9-80f4-7cd5b53280f2" />
 <img width="904" height="607" alt="image" src="https://github.com/user-attachments/assets/cf9aa5d3-ba20-4842-a899-c3c78de03df6" />
 <img width="1410" height="607" alt="image" src="https://github.com/user-attachments/assets/1716defa-4f16-4216-b227-eb48dfd2281a" />
